@@ -37,4 +37,4 @@ It detects a physical chessboard in a video feed and **draws a semi-transparent 
   ![output](data/output.gif)
 
   ## Reference
-  ![MINT Lab](https://github.com/mint-lab/3dv_tutorial)
+  [MINT Lab](https://github.com/mint-lab/3dv_tutorial)
